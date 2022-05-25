@@ -1,2 +1,12 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Align: =Align.Center
+        Height: =667
+        Size: =50
+        Text: ="Hello GitHub!"
+        Width: =1326
+        X: =40
+        Y: =40
+        ZIndex: =1
+
